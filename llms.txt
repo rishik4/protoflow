@@ -1,0 +1,32 @@
+# ProtoFlow
+
+> ProtoFlow is a free desktop app (macOS, Windows, Linux) for designing printed circuit boards with AI. You describe a circuit in plain English and it drafts an editable schematic with real parts, lays out and autoroutes the PCB, runs ERC/DRC, and exports native KiCad files (.kicad_sch, .kicad_pcb), Gerbers, drill files and a BOM. The app is closed source. This repository holds its docs, installers (GitHub Releases) and agent setup instructions.
+
+To install ProtoFlow for a user, follow AGENTS.md. The newest installer for each platform, with SHA-256, is in latest.json.
+
+## Agents
+
+- [AGENTS.md](https://raw.githubusercontent.com/rishik4/protoflow/main/AGENTS.md): install ProtoFlow, first launch, first project, using it alongside a coding agent
+- [latest.json](https://raw.githubusercontent.com/rishik4/protoflow/main/latest.json): newest installer per platform (keys: macos, windows, linux-x64, linux-arm64)
+- [Releases](https://github.com/rishik4/protoflow/releases): every version with notes and SHA256SUMS.txt
+
+## Docs
+
+- [Getting started](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/getting-started.md)
+- [AI assistant](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/ai-assistant.md)
+- [Max mode](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/max-mode.md)
+- [Schematic editor](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/schematic-editor.md)
+- [Components and parts](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/components-and-parts.md)
+- [PCB editor](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/pcb-editor.md)
+- [Auto-place and autoroute](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/layout-automation.md)
+- [Design checks](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/design-checks.md)
+- [Manufacturing](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/manufacturing.md)
+- [Files, import and export](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/files-and-import-export.md)
+- [Keyboard shortcuts](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/keyboard-shortcuts.md)
+- [Full docs index](https://raw.githubusercontent.com/rishik4/protoflow/main/docs/README.md)
+
+## Optional
+
+- [Website](https://www.protoflow.ai)
+- [Pricing](https://www.protoflow.ai/pricing)
+- [Download page](https://www.protoflow.ai/download)

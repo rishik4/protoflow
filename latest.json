@@ -1,0 +1,84 @@
+{
+  "source": "Official ProtoFlow update feed",
+  "repository": "rishik4/protoflow",
+  "platforms": {
+    "macos": {
+      "label": "macOS (Apple silicon and Intel)",
+      "version": "3.3.1",
+      "build": 209,
+      "date": "2026-10-29",
+      "release": "https://github.com/rishik4/protoflow/releases/tag/v3.3.1",
+      "files": [
+        {
+          "name": "ProtoFlow-3.3.1-macOS.dmg",
+          "kind": "dmg",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.3.1/ProtoFlow-3.3.1-macOS.dmg",
+          "size": 153883041,
+          "sha256": "09e12d8304f69e57782c48130e6213e21f89c4049b47bc8c09d333a2c6673fb4"
+        }
+      ]
+    },
+    "windows": {
+      "label": "Windows 10/11 (x64)",
+      "version": "3.3.1",
+      "build": 209,
+      "date": "2026-10-29",
+      "release": "https://github.com/rishik4/protoflow/releases/tag/v3.3.1",
+      "files": [
+        {
+          "name": "ProtoFlow-3.3.1-Windows-x64-Setup.exe",
+          "kind": "exe",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.3.1/ProtoFlow-3.3.1-Windows-x64-Setup.exe",
+          "size": 65200184,
+          "sha256": "f222a265c31df8d4e0507a2dcc0f3da9a64921d10b4ba841684cafdf0b163219"
+        }
+      ]
+    },
+    "linux-x64": {
+      "label": "Linux (x86_64)",
+      "version": "3.3.1",
+      "build": 209,
+      "date": "2026-10-28",
+      "release": "https://github.com/rishik4/protoflow/releases/tag/v3.3.1",
+      "files": [
+        {
+          "name": "ProtoFlow-3.3.1-Linux-x86_64.AppImage",
+          "kind": "AppImage",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.3.1/ProtoFlow-3.3.1-Linux-x86_64.AppImage",
+          "size": 237515968,
+          "sha256": "b0257cf9cd0ef309923282ee2fc4d9f3b3095dc1e2c83ab5d83e69ba2babb0dc"
+        },
+        {
+          "name": "ProtoFlow-3.3.1-Linux-x86_64.tar.gz",
+          "kind": "tar.gz",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.3.1/ProtoFlow-3.3.1-Linux-x86_64.tar.gz",
+          "size": 234484890,
+          "sha256": "472e21c96bd8f1d8423eddbfbba0962901a12f7f00cff432c58d31e3980f4b27"
+        }
+      ]
+    },
+    "linux-arm64": {
+      "label": "Linux (arm64)",
+      "version": "3.0.5",
+      "build": 186,
+      "date": "2026-09-20",
+      "release": "https://github.com/rishik4/protoflow/releases/tag/v3.0.5",
+      "files": [
+        {
+          "name": "ProtoFlow-3.0.5-Linux-arm64.AppImage",
+          "kind": "AppImage",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.0.5/ProtoFlow-3.0.5-Linux-arm64.AppImage",
+          "size": 233017728,
+          "sha256": "2c9f54c4ce3c46fac755631f4265abed533dbbc076bbbd0508071ae850a01e79"
+        },
+        {
+          "name": "ProtoFlow-3.0.5-Linux-arm64.tar.gz",
+          "kind": "tar.gz",
+          "url": "https://github.com/rishik4/protoflow/releases/download/v3.0.5/ProtoFlow-3.0.5-Linux-arm64.tar.gz",
+          "size": 229535450,
+          "sha256": "e28d04da47fdada35daf691df073f57947273e88fd2404d805e0977834dde424"
+        }
+      ]
+    }
+  }
+}
