@@ -24,7 +24,7 @@
   <a href="https://discord.gg/cAzH6XTUmN"><img alt="Discord" src="https://img.shields.io/badge/chat-Discord-5865F2"></a>
 </p>
 
-![ProtoFlow building an ESP32 board: AI drafts the schematic, the autorouter routes the PCB, and the 3D view shows the result](docs/media/hero.gif)
+![ProtoFlow designing an ESP32 breakout board from one prompt, then editing a six-layer board with part search, datasheets and a SPICE simulation](docs/media/protoflow-demo.gif)
 
 ProtoFlow is a free desktop app for designing circuit boards, with AI built in. Learn more at **[protoflow.ai](https://www.protoflow.ai)**.
 
