@@ -135,9 +135,6 @@ It can be your whole editor, or you can use it next to KiCad. Both apps read and
 **Where are my projects stored?**
 On your computer. Projects are folders of ordinary files, and uninstalling ProtoFlow doesn't touch them.
 
-**Is ProtoFlow open source?**
-No. This repository has the docs and the installers, not the app's source code.
-
 ## About this repository
 
 - `docs/` has the user guide, with GIFs.
